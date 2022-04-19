@@ -1,0 +1,11 @@
+{
+  "name": "todolist",
+  "devDependencies": {
+    "ts-node": "10.7.0",
+    "typescript": "4.6.3"
+  },
+  "dependencies": {
+    "@types/uuid": "^8.3.4",
+    "uuid": "^8.3.2"
+  }
+}
