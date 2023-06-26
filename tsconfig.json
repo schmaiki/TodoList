@@ -3,9 +3,12 @@
     "baseUrl": ".",
     "declaration": true,
     "esModuleInterop": true,
-    "lib": ["DOM", "ESNext"],
+    "lib": [
+      "DOM",
+      "ESNext"
+    ],
     "module": "commonjs",
-    "target": "ES2019",
+    "target": "ES2022",
     "outDir": "build",
     "resolveJsonModule": true,
     "strict": true
