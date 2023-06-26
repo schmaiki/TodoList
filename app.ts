@@ -7,4 +7,5 @@ const todoList = new TodoList<Metadata>()
 todoList.note("Code aufräumen", Date())
 // @ts-ignore
 todoList.note("SQL Lernen", Date())
+
 console.log(todoList.getOpenTodos())
