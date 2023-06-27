@@ -9,7 +9,7 @@
     ],
     "module": "commonjs",
     "target": "ES2022",
-    "outDir": "build",
+    "outDir": "./build",
     "resolveJsonModule": true,
     "strict": true
   },

@@ -1,5 +1,6 @@
 interface Metadata {
-  date: string;
+  date: string
+  assignee?: string
 }
 
 export { Metadata };
