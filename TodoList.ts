@@ -4,7 +4,6 @@ import { v4 } from "uuid";
 class TodoList<T> {
   private readonly todos: Todo<T>[];
 
-
   public constructor() {
     this.todos = [];
   }
